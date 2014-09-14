@@ -1,0 +1,33 @@
+body 
+{
+background-color: black;
+
+
+}
+
+#content_box
+{
+position: absolute;
+left: 50%;
+top: 25%;
+transform: translate(-50%, -50%);
+width: %30;
+margin: %0 0 25% ;
+color: #00ff00
+}
+
+#title_box
+{
+
+}
+
+#text_box
+{
+
+}
+
+#interest_box
+{
+float: right;
+clear: none;
+}
